@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1795318371|106670878';
+const CACHE_VERSION = '1795385177|1362324062';
 /** @type {string} */
 const CACHE_PREFIX = 'VB Stat Tracker-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
